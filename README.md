@@ -28,6 +28,6 @@ The graph is made for the sample which has best accuracy. Sample 9 has the best 
 
 ### submitted by- 
 
-Tanvi
+Sanchi
 3C64
 102203595
